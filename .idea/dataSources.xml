@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="test" uuid="84b64b2f-bb0d-473c-ae2a-f07c2831f049">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\veron\PycharmProjects\gift_helper\test.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="gifthelperdb" uuid="e76882e9-1c3d-45bd-aa89-b79486d0fcd4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\veron\PycharmProjects\gift_helper\gifthelperdb.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="gifthelper" uuid="3ec7c895-cb97-4acf-8112-19e2306e50ac">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\veron\PycharmProjects\gift_helper\gifthelper.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
